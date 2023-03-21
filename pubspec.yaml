@@ -1,7 +1,7 @@
 name: hover_animation
-description: A new Flutter package project.
+description: A Customizable Hover Animation Package for Flutter
 version: 0.0.1
-homepage:
+homepage: https://github.com/tusharhow/hover-animation
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
